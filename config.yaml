@@ -10,8 +10,8 @@ proxies:
     flow: xtls-rprx-vision
     servername: www.cloudflare.com
     reality-opts:
-      public-key: wvZMisOu5dUS4F1roc6iFOCpe-yGX7pfAikYLdBVtB4
-      short-id: 52663672a2781cad
+      public-key: d6MSpUvrNVyaPY75nlCBrkQVTQu0KsF-T6KneybaBh8
+      short-id: af9670dba1ed2cce
     client-fingerprint: chrome
 
 proxy-groups:
